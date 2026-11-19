@@ -1,229 +1,219 @@
-# Awesome-AI-Simulation-Agent-Systems
+<div align="center">
 
-## Top AI Simulation & Agent Systems Ecosystem
+<img src="./assets/banner.svg" alt="Awesome AI Simulation & Agent Systems Banner" width="100%" />
 
+# 🌐 Awesome AI Simulation & Agent Systems 🤖
 
+[![Awesome](https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jc4xtF58Ve)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-AI-Simulation-Agent-Systems/pulls)
+[![Curated Ecosystem](https://img.shields.io/badge/Curated-AI%20Simulation%20%26%20Agents-blue)](https://github.com/ishandutta2007/Awesome-AI-Simulation-Agent-Systems)
+[![GitHub followers](https://img.shields.io/github/followers/ishandutta2007?label=Follow)](https://github.com/ishandutta2007)
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<p align="center">
+  <strong>Curated Directory of Cloud SaaS Platforms & Open-Source Repositories for Multi-Agent Swarms, Emergent Societies, Autonomous Software Organizations, and Social/Market Simulators</strong>
+</p>
 
-*Focused on Multi-Agent Swarm Simulations, Role-Playing Agent Societies, Autonomous Software Organizations, Social/Market Simulators & Agentic Orchestration*  
+<p align="center">
+  <em>Discover, benchmark, and deploy state-of-the-art autonomous agent frameworks, generative persona simulations, and enterprise multi-agent workflows.</em>
+</p>
 
-**Last updated: November 2026**
+</div>
 
+---
 
+## 📑 Table of Contents 📌
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Simulation & Agent Systems**. These tools simulate complex multi-agent societies, emergent social and economic behaviors, role-playing software engineering teams, synthetic data environments, and stateful agentic workflows at scale.
+- [🌟 Overview](#-overview)
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [🏆 Tier 1: 50,000+ Stars (Industry Anchors & Foundations)](#-tier-1-50000-stars-industry-anchors--foundations)
+  - [🚀 Tier 2: 20,000 – 50,000 Stars (Flagship Frameworks & Social Simulators)](#-tier-2-20000--50000-stars-flagship-frameworks--social-simulators)
+  - [🔬 Tier 3: Emerging & Specialized Simulators (< 20,000 Stars)](#-tier-3-emerging--specialized-simulators--20000-stars)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support](#-support)
+- [⚖️ Disclaimer & License](#️-disclaimer--license)
 
+---
 
+## 🌟 Overview 🔍
 
-**Examples** include MiroFish, Microsoft AutoGen, CrewAI, CAMEL-AI, MetaGPT, LangChain / LangGraph, ChatDev, AgentOps, SuperAGI, PromptEngine, and 666ghj/MiroFish (the category leaders). 
+Welcome to the **Awesome AI Simulation & Agent Systems** index! As foundational Large Language Models (LLMs) and reasoning models evolve, the artificial intelligence frontier has transitioned from single-prompt interactions to **multi-agent simulations** and **autonomous agentic orchestration**. 
 
+This comprehensive, SEO-optimized repository tracks production-ready **SaaS platforms** and **open-source GitHub projects** powering:
+- 👥 **Emergent Social & Behavioral Simulations:** Generative agent simulacra living in sandbox worlds with memory, reflection trees, and organic relationship dynamics.
+- 🐝 **Swarm Intelligence & Predictive Digital Twins:** Massively parallel agent populations evaluating public opinion, market reactions, political outcomes, and geopolitical game-theory.
+- 🏢 **Autonomous Software Organizations:** Specialized virtual dev crews (PMs, Architects, Software Engineers, QA) collaborating via standardized SOPs.
+- 🔄 **Graph-Based Agent Orchestration:** Stateful, event-driven multi-actor systems with cyclic graph flows, time-travel debugging, and human-in-the-loop governance.
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for swarm intelligence & prediction simulations (`MiroFish`), large-scale communicative agent societies (`CAMEL-AI`, `OASIS`, `AgentScope`, `Concordia`, `Generative Agents`), virtual software companies (`MetaGPT`, `ChatDev`), and multi-agent orchestration frameworks (`AutoGen`, `CrewAI`, `LangGraph`) — ideal for AI researchers, computational social scientists, simulation engineers, and multi-agent builders.
+## 📊 Sector Overview & Market Dynamics 📈
 
+The global AI agent and autonomous simulation sector is projected to expand from **$5.1 billion in 2024 to over $47.1 billion by 2030, registering a compound annual growth rate (CAGR) of ~45%**, driven by surging demand for autonomous workflows, synthetic consumer intelligence, and enterprise-grade multi-agent software engineering. 
 
+The market dynamics exhibit a **moderately fragmented architecture with selective winner-take-most concentration at the platform and orchestration layer**. While foundational LLM infrastructure and core trace/graph orchestration platforms (e.g., LangChain/LangGraph, OpenAI SDK) consolidate immense developer network effects, vertical domain simulation layers (synthetic focus groups, macroeconomic behavior modeling, and embodied gaming simulacra) remain highly fragmented among specialized AI research labs and agile startups.
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+---
 
+## ☁️ SaaS & Hosted Platforms 🏢
 
+The following hosted platforms provide managed cloud infrastructure, visual low-code/no-code canvas builders, simulation monitors, and synthetic persona engines for AI agent systems. 
 
-## Table of Contents
+*Table sorted in descending order by estimated company valuation / capital scale:*
 
-- [SaaS/Hosted Platforms](#saashosted-platforms)
+| Company / SaaS Platform | Description & Key Capabilities | Company Size / Valuation / Funding | Starting Pricing (Specific Paid Tier) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[LangSmith & LangGraph Cloud](https://langchain.com)** 🔗 | Managed cloud platform for tracing, deploying, evaluating, and monitoring cyclic multi-agent graph workflows, multi-actor simulations, and production agent fleets. | **Valuation: $1.25B – $3B** ($300M Series C, backed by Sequoia & CapitalG) | **$39 / seat / month** (Plus Plan; includes 1 Serverless Agent Server & 10k traces) | **Free forever Developer Plan:** 1 user seat, 5,000 base traces/month, 14-day data retention |
+| **[Aaru](https://aaru.com)** 🔗 | Enterprise AI multi-agent predictive simulation engine populating 10,000+ synthetic agent personas with behavioral telemetry to forecast consumer, market, and voting outcomes. | **Valuation: $1B** headline valuation ($50M–$80M Series A, backed by Redpoint & General Catalyst) | **Custom Enterprise SLA** (sales-led enterprise deployment; starting custom contracts) | **No self-serve free tier:** Proof-of-concept pilot provided via direct sales demo & enterprise qualification |
+| **[Vellum](https://vellum.ai)** 🔗 | Multi-agent workflow testing, prompt sandbox simulation, model benchmarking, and persistent autonomous personal AI assistant infrastructure. | **Valuation: $100M – $250M** ($25.5M total funding, $20M Series A led by Leaders Fund) | **$30 / month** (Mighty Pro Package; includes 10 GiB storage & bundled usage credits) | **Free forever Base Plan:** 1 vCPU, 2 GiB RAM, 6 GiB persistent storage, managed starter LLM credentials |
+| **[CrewAI Enterprise](https://crewai.com)** 🔗 | Cloud-hosted multi-agent management platform (AMP) featuring Crew Studio visual canvas, role-playing agent crews, automation triggers, and enterprise governance. | **Valuation: $50M – $100M** ($18M Series A led by Insight Partners & boldstart, $2.4M–$3.2M ARR) | **Custom Enterprise Quote** (sales-led commercial tier; legacy starting self-serve at $25/mo) | **Free forever Basic Plan:** 1 user seat, 2 active automations, capped at 50 workflow executions/month |
+| **[SuperAGI Cloud](https://superagi.com)** 🔗 | Hosted autonomous AI agent infrastructure with concurrent agent execution, visual action trajectories, vector memory, and sales/GTM agentic sequences. | **Valuation: $50M – $100M** ($15M total funding, $10M Series A led by Newlands VC) | **Tiered usage credits** (GTM commercial starter tiers scale based on workflow sequences) | **Free trial & Community Open-Source:** Free initial credits on cloud signup + 100% free self-hosted open-source framework |
+| **[Relevance AI](https://relevanceai.com)** 🔗 | Low-code cloud workforce engine enabling teams to build, chain, run, and audit collaborative AI agent teams across sales, support, and business simulations. | **Funding: $37M – $42M** ($24M Series B led by Bessemer Venture Partners; valuation undisclosed) | **$29 / month** (Pro Plan; annual billing option at $19/mo, plus usage meters) | **No free tier or trial:** Legacy free plan retired; full platform requires active Pro/Team plan or enterprise demo |
+| **[Altera / Project Sid](https://altera.al)** 🔗 | Simulation intelligence lab generating autonomous digital human personas, game-world societies (Project Sid in Minecraft), and prosumer spreadsheet/productivity agents. | **Funding: $44.1M+ total** ($33M Series A led by Prosus, $11.1M seed/pre-seed; valuation undisclosed) | **Usage-based subscription tiers** (commercial consumer & spreadsheet agent workflows) | **7-day free trial** with starter generation tokens before transitioning into paid subscription |
+| **[Artificial Societies](https://societies.ai)** 🔗 | Social simulation platform running synthetic persona networks to model viral dissemination, policy sentiment, PR crisis mitigation, and corporate communications. | **Funding: $5.35M** ($3.35M Seed led by Point72 Ventures, YC W25; valuation undisclosed) | **$40 / month** (Pro Plan for simulation access, shifting toward enterprise contracts) | **Free trial tier:** 3 free simulation credits provided upon demo qualification/signup |
+| **[AgentOps](https://agentops.ai)** 🔗 | Dedicated observability, replay, and auditing suite for autonomous multi-agent systems, tracking agentic thoughts, tool execution failures, and simulation costs. | **Funding: $2.6M Pre-Seed** (backed by 645 Ventures and Afore Capital; valuation undisclosed) | **$40 / month** (Pro Plan; tiered volume pricing above included limits) | **Free forever Basic Plan:** 5,000 tracked events/month with 7-day data retention |
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+---
 
-- [How to Contribute](#how-to-contribute)
+## 💻 Open-Source GitHub Projects 🛠️
 
-- [Disclaimer](#disclaimer)
+A directory of top open-source repositories powering multi-agent systems, social simulators, embodied virtual worlds, and agentic infrastructure.
 
+*Each project includes a live white-badge link to its official GitHub stargazers page and is sorted in descending order by GitHub stars:*
 
+### 🏆 Tier 1: 50,000+ Stars (Industry Anchors & Foundations)
 
-## SaaS/Hosted Platforms
+1. **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![AutoGPT Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
+   The iconic open-source autonomous agent experiment that catalyzed the autonomous agent movement. Enables modular agents to recursively plan, execute web tasks, browse, code, and execute multi-step objectives.
 
+2. **[ollama/ollama](https://github.com/ollama/ollama)** [![Ollama Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)  
+   Essential local LLM engine powering high-volume, privacy-preserving agent simulations without per-token cloud costs. Runs Llama 3, DeepSeek, Mistral, and custom model weights locally.
 
+3. **[vllm-project/vllm](https://github.com/vllm-project/vllm)** [![vLLM Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers)  
+   High-throughput, low-latency LLM serving engine powered by PagedAttention. The preferred inference backbone for running hundreds of concurrent agent simulation turns across GPU clusters.
 
-- **[CrewAI Enterprise](https://crewai.com)**  
+4. **[All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands)** [![OpenHands Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=social&color=white)](https://github.com/All-Hands-AI/OpenHands/stargazers)  
+   Autonomous AI software development agent capable of modifying code, executing terminal commands, opening PRs, and collaborating inside simulated development sandboxes.
 
-  Cloud-hosted multi-agent orchestration and simulation platform featuring visual workflow builders, role-playing agent crews, real-time telemetry, and managed enterprise deployments.
+5. **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)** [![MiroFish Stars](https://img.shields.io/github/stars/666ghj/MiroFish?style=social&color=white)](https://github.com/666ghj/MiroFish/stargazers)  
+   Massive swarm intelligence and multi-agent simulation prediction engine. Ingests news events and seed conditions to construct high-fidelity digital societies with emergent collective behavior.
 
+6. **[FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT)** [![MetaGPT Stars](https://img.shields.io/github/stars/FoundationAgents/MetaGPT?style=social&color=white)](https://github.com/FoundationAgents/MetaGPT/stargazers)  
+   Pioneering multi-agent virtual software company framework. Assigns standardized Standard Operating Procedures (SOPs) to simulated Product Managers, Architects, Project Managers, and Engineers to produce full applications.
 
+7. **[mem0ai/mem0](https://github.com/mem0ai/mem0)** [![Mem0 Stars](https://img.shields.io/github/stars/mem0ai/mem0?style=social&color=white)](https://github.com/mem0ai/mem0/stargazers)  
+   Universal long-term memory layer for AI agents. Provides scalable episodic, semantic, and working memory persistence across recurring simulation loops and conversational turns.
 
-- **[LangSmith & LangGraph Platform (LangChain)](https://langchain.com)**  
+8. **[microsoft/autogen](https://github.com/microsoft/autogen)** [![AutoGen Stars](https://img.shields.io/github/stars/microsoft/autogen?style=social&color=white)](https://github.com/microsoft/autogen/stargazers)  
+   Microsoft's premier event-driven, conversational multi-agent framework. Supports distributed agent architectures, human-in-the-loop debugging, and complex collaborative task execution.
 
-  Managed cloud infrastructure for deploying, tracing, and evaluating stateful multi-agent simulations, cyclic graphs, and human-in-the-loop workflows.
+9. **[crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)** [![CrewAI Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=social&color=white)](https://github.com/crewAIInc/crewAI/stargazers)  
+   Streamlined Python framework for orchestrating collaborative role-playing autonomous AI agent crews and deterministic agentic flows with intuitive tooling and task delegation.
 
+10. **[run-llama/llama_index](https://github.com/run-llama/llama_index)** [![LlamaIndex Stars](https://img.shields.io/github/stars/run-llama/llama_index?style=social&color=white)](https://github.com/run-llama/llama_index/stargazers)  
+    Comprehensive data framework and agent workflow system connecting private knowledge corpora and multimodal indices to autonomous agent reasoning loops.
 
+---
 
-- **[SuperAGI Cloud](https://superagi.com)**  
+### 🚀 Tier 2: 20,000 – 50,000 Stars (Flagship Frameworks & Social Simulators)
 
-  Hosted autonomous AI agent infrastructure enabling concurrent multi-agent provisioning, marketplace toolkits, vector memory, and performance monitoring.
+11. **[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)** [![LangGraph Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
+    Stateful multi-actor agent orchestration library modeling complex agent interactions as cyclic graphs with built-in persistence, time-travel inspection, and fault tolerance.
 
+12. **[agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope)** [![AgentScope Stars](https://img.shields.io/github/stars/agentscope-ai/agentscope?style=social&color=white)](https://github.com/agentscope-ai/agentscope/stargazers)  
+    Developer-centric multi-agent platform from Alibaba featuring distributed actor execution, customizable conversation modes, synthetic game benchmarks, and fault-tolerant communication.
 
+13. **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** [![ChatDev Stars](https://img.shields.io/github/stars/OpenBMB/ChatDev?style=social&color=white)](https://github.com/OpenBMB/ChatDev/stargazers)  
+    Communicative agent simulation modeling a virtual software company where LLM-powered roles collaborate through design, coding, testing, and documentation chat chains.
 
-- **[AgentOps](https://agentops.ai)**  
+14. **[assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)** [![GPT Researcher Stars](https://img.shields.io/github/stars/assafelovic/gpt-researcher?style=social&color=white)](https://github.com/assafelovic/gpt-researcher/stargazers)  
+    Autonomous agent team conducting comprehensive, parallel online research across 20+ web sources to generate objective, detailed research dossiers.
 
-  Dedicated cloud agent monitoring and replay platform tracking multi-agent interactions, tool calls, recursive thoughts, LLM spend, and simulation session replays.
+15. **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** [![OpenAI Agents Stars](https://img.shields.io/github/stars/openai/openai-agents-python?style=social&color=white)](https://github.com/openai/openai-agents-python/stargazers)  
+    OpenAI's production-grade multi-agent library standardizing agent definitions, tool delegation, guardrails, and deterministic state transitions.
 
+16. **[joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)** [![Generative Agents Stars](https://img.shields.io/github/stars/joonspk-research/generative_agents?style=social&color=white)](https://github.com/joonspk-research/generative_agents/stargazers)  
+    The landmark Stanford Smallville simulation architecture demonstrating 25 believable generative agents living in an interactive RPG town with reflection and memory trees.
 
+17. **[openai/swarm](https://github.com/openai/swarm)** [![Swarm Stars](https://img.shields.io/github/stars/openai/swarm?style=social&color=white)](https://github.com/openai/swarm/stargazers)  
+    Educational and ergonomic exploration of lightweight multi-agent patterns centered on routines, stateless agent handoffs, and direct function execution.
 
-- **[Altera / Project Sid](https://altera.al)**  
+---
 
-  Cloud autonomous AI agent civilization platform running thousands of persistent LLM agents inside shared virtual worlds to study emergent governance, trade, and culture.
+### 🔬 Tier 3: Emerging & Specialized Simulators (< 20,000 Stars)
 
+18. **[camel-ai/camel](https://github.com/camel-ai/camel)** [![CAMEL Stars](https://img.shields.io/github/stars/camel-ai/camel?style=social&color=white)](https://github.com/camel-ai/camel/stargazers)  
+    Pioneering communicative agent framework ("Communicative Agents for Mind Exploration") designed for autonomous role-playing cooperation, task exploration, and synthetic training data generation.
 
+19. **[TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)** [![SuperAGI Stars](https://img.shields.io/github/stars/TransformerOptimus/SuperAGI?style=social&color=white)](https://github.com/TransformerOptimus/SuperAGI/stargazers)  
+    Dev-first autonomous AI agent framework supporting concurrent agent provisioning, graphical action replay, vector database storage, and external tool integration.
 
-- **[Aaru](https://aaru.com)**  
+20. **[a16z-infra/ai-town](https://github.com/a16z-infra/ai-town)** [![AI Town Stars](https://img.shields.io/github/stars/a16z-infra/ai-town?style=social&color=white)](https://github.com/a16z-infra/ai-town/stargazers)  
+    Deployable starter kit by a16z Infra for hosting real-time virtual towns where AI characters socialize, remember conversations, and interact across a TypeScript/Convex stack.
 
-  Cloud AI multi-agent predictive simulation platform modeling consumer behavior, public opinion, and market dynamics using synthetic agent populations.
+21. **[microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe)** [![TinyTroupe Stars](https://img.shields.io/github/stars/microsoft/TinyTroupe?style=social&color=white)](https://github.com/microsoft/TinyTroupe/stargazers)  
+    Microsoft's multi-agent persona simulation library tailored for synthetic focus groups, consumer product ideation, audience feedback, and cognitive simulation.
 
+22. **[MineDojo/Voyager](https://github.com/MineDojo/Voyager)** [![Voyager Stars](https://img.shields.io/github/stars/MineDojo/Voyager?style=social&color=white)](https://github.com/MineDojo/Voyager/stargazers)  
+    First open-ended embodied lifelong learning agent in Minecraft driven by LLMs. Autonomously writes, refines, and stores procedural action skills in a vector memory library.
 
+23. **[camel-ai/oasis](https://github.com/camel-ai/oasis)** [![OASIS Stars](https://img.shields.io/github/stars/camel-ai/oasis?style=social&color=white)](https://github.com/camel-ai/oasis/stargazers)  
+    CAMEL-AI's Open Agent Social Interaction Simulator capable of orchestrating up to one million autonomous LLM agents in synthetic Twitter/X and Reddit social ecosystems.
 
-- **[Artificial Societies](https://societies.io)**  
+24. **[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)** [![AgentVerse Stars](https://img.shields.io/github/stars/OpenBMB/AgentVerse?style=social&color=white)](https://github.com/OpenBMB/AgentVerse/stargazers)  
+    Flexible multi-agent simulation and task-solving environment designed to observe emergent group dynamics, negotiation, and collaborative problem-solving.
 
-  Cloud social simulation engine allowing researchers and product teams to test ideas, messaging, and viral spread across simulated networks of AI personas.
+25. **[mesa/mesa](https://github.com/mesa/mesa)** [![Mesa Stars](https://img.shields.io/github/stars/mesa/mesa?style=social&color=white)](https://github.com/mesa/mesa/stargazers)  
+    The premier Python agent-based modeling (ABM) framework for social sciences, epidemiology, and economics, increasingly integrated with LLMs for cognitive behavioral modeling.
 
+26. **[Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)** [![PettingZoo Stars](https://img.shields.io/github/stars/Farama-Foundation/PettingZoo?style=social&color=white)](https://github.com/Farama-Foundation/PettingZoo/stargazers)  
+    Standard Gymnasium-equivalent API for multi-agent reinforcement learning (MARL) benchmarks, multi-agent game environments, and competitive simulations.
 
+27. **[google-deepmind/concordia](https://github.com/google-deepmind/concordia)** [![Concordia Stars](https://img.shields.io/github/stars/google-deepmind/concordia?style=social&color=white)](https://github.com/google-deepmind/concordia/stargazers)  
+    Google DeepMind's library for generative social simulations where communicative agents interact in grounded economic, social, and game-theoretic scenarios mediated by a Game Master LLM.
 
-- **[Relevance AI](https://relevanceai.com)**  
+28. **[google-deepmind/meltingpot](https://github.com/google-deepmind/meltingpot)** [![Melting Pot Stars](https://img.shields.io/github/stars/google-deepmind/meltingpot?style=social&color=white)](https://github.com/google-deepmind/meltingpot/stargazers)  
+    DeepMind's simulation benchmark suite measuring generalized artificial social intelligence, cooperation, and social dilemma dynamics in multi-agent environments.
 
-  No-code/low-code cloud workforce platform for building, chaining, and scheduling teams of collaborative AI agents across business simulations and operations.
+29. **[sotopia-lab/sotopia](https://github.com/sotopia-lab/sotopia)** [![Sotopia Stars](https://img.shields.io/github/stars/sotopia-lab/sotopia?style=social&color=white)](https://github.com/sotopia-lab/sotopia/stargazers)  
+    Open-ended social learning environment evaluating social negotiation, cooperation, deception, and interpersonal dynamics between communicating LLM agents.
 
+---
 
+## 📈 Star History 📊
 
-- **[PromptEngine / Vellum](https://vellum.ai)**  
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-AI-Simulation-Agent-Systems&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-AI-Simulation-Agent-Systems&type=date&legend=top-left)
 
-  Cloud AI workflow and prompt simulation platforms enabling teams to test multi-step agent chains, compare model outputs side by side, and deploy versioned agent pipelines.
+---
 
+## 🤝 How to Contribute 💡
 
+Contributions are warmly welcome to keep this directory comprehensive and up to date! 🌟
 
+1. **Fork the repository** to your personal GitHub account.
+2. **Create a descriptive feature branch**: `git checkout -b feature/add-new-simulator`.
+3. **Add your SaaS product or open-source tool**:
+   - For SaaS products: Include specific starting tier pricing, free plan/trial limits, and company scale/valuation in the tabular format.
+   - For open-source projects: Include the GitHub repository link, live shields.io star badge with white background linking to stargazers, and a concise capability description.
+4. **Sort into the proper rank/section**.
+5. **Submit a Pull Request** with a brief summary of the added technology.
 
+---
 
-## Open-Source GitHub Projects
+## ☕ Support 💖
 
+If you found this curated ecosystem useful for your research, company simulations, or agent architectures:
+- ⭐ **Star this repository** to help others discover it!
+- 🍴 **Fork it** to build your own custom curated sub-indexes.
+- 📢 **Share it** with the AI engineering and simulation community.
+- ☕ **Sponsor & Buy a Coffee:** [Sponsor Dashboard on GitHub](https://github.com/sponsors/ishandutta2007)
 
+---
 
-- **[MiroFish (`666ghj/MiroFish`)](https://github.com)**  
+## ⚖️ Disclaimer & License 📜
 
-  Open-source swarm intelligence and multi-agent simulation prediction engine that ingests seed reports and news to construct high-fidelity parallel digital worlds populated by thousands of autonomous agents with persistent memory and emergent social interactions.
-
-
-
-- **[CAMEL-AI (`camel-ai/camel`)](https://github.com)**  
-
-  Flagship open-source (`Apache-2.0`) multi-agent infrastructure framework ("Communicative Agents for Mind Exploration") engineered for scalable role-playing societies, workforce orchestration, and synthetic data generation.
-
-
-
-- **[OASIS (`camel-ai/oasis`)](https://github.com)**  
-
-  Open-source (`Apache-2.0`) Open Agent Social Interaction Simulations framework from CAMEL-AI capable of simulating up to one million autonomous LLM agents across X/Twitter- and Reddit-style social environments.
-
-
-
-- **[Microsoft AutoGen (`microsoft/autogen`)](https://github.com)**  
-
-  Leading open-source (`MIT` / `CC-BY-4.0`) framework and AutoGen Studio UI for building event-driven, conversational multi-agent systems and distributed agent simulations.
-
-
-
-- **[CrewAI (`crewAIInc/crewAI`)](https://github.com)**  
-
-  Popular open-source (`MIT`) Python framework for orchestrating collaborative, role-playing autonomous AI agent crews alongside deterministic event-driven Flows.
-
-
-
-- **[MetaGPT (`geekan/MetaGPT`)](https://github.com)**  
-
-  Pioneering open-source (`MIT`) multi-agent software-company framework assigning standardized SOPs to simulated Product Managers, Architects, Engineers, and QA agents to build complete software projects.
-
-
-
-- **[ChatDev (`OpenBMB/ChatDev`)](https://github.com)**  
-
-  Open-source (`Apache-2.0`) virtual software development company powered by communicating LLM agents collaborating across design, coding, testing, and documentation phases.
-
-
-
-- **[LangGraph (`langchain-ai/langgraph`)](https://github.com)**  
-
-  Open-source (`MIT`) stateful orchestration framework for modeling multi-actor agent simulations as cyclic graphs with time-travel checkpointing and human-in-the-loop controls.
-
-
-
-- **[Google DeepMind Concordia (`google-deepmind/concordia`)](https://github.com)**  
-
-  Open-source (`Apache-2.0`) library from DeepMind for constructing and running generative agent-based social, economic, and game-theoretic simulations mediated by a Game Master LLM.
-
-
-
-- **[Generative Agents (`joonspk-research/generative_agents`)](https://github.com)**  
-
-  Foundational open-source (`Apache-2.0`) Stanford Smallville simulation architecture demonstrating believable human simulacra with memory streams, reflection trees, and daily planning.
-
-
-
-- **[AgentScope (`modelscope/agentscope`)](https://github.com)**  
-
-  Developer-friendly open-source (`Apache-2.0`) multi-agent platform from Alibaba featuring actor-based distributed execution, fault tolerance, and built-in multi-agent game/social simulation environments.
-
-
-
-- **[AI Town (`a16z-infra/ai-town`)](https://github.com)**  
-
-  Deployable open-source (`MIT`) starter kit for building persistent, real-time virtual towns where AI characters live, chat, form memories, and socialize in a TypeScript/Convex stack.
-
-
-
-- **[AgentVerse (`OpenBMB/AgentVerse`)](https://github.com)**  
-
-  Open-source (`Apache-2.0`) framework facilitating task-solving multi-agent groups and emergent behavior simulations across collaborative and competitive scenarios.
-
-
-
-- **[Swarm (`openai/swarm`) & OpenAI Agents SDK (`openai/openai-agents-python`)](https://github.com)**  
-
-  Lightweight open-source (`MIT`) multi-agent ergonomics framework standardizing agent handoffs, routines, guardrails, and trace visualization.
-
-
-
-- **[SuperAGI (`TransformerOptimus/SuperAGI`)](https://github.com)**  
-
-  Dev-first open-source (`MIT`) autonomous AI agent framework supporting concurrent agent execution, graphical action trajectories, and vector database memory.
-
-
-
-- **[Project Sid / MineDojo / Voyager (`MineDojo/Voyager`)](https://github.com)**  
-
-  Open-source (`MIT`) embodied lifelong-learning and multi-agent environment frameworks enabling agents to explore, build skills, and interact in 3D Minecraft worlds.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Mesa (`projectmesa/mesa`)](https://github.com)** and **[NetLogo](https://github.com)** for classic open-source Python and JVM agent-based modeling (ABM) frameworks increasingly paired with LLMs for hybrid cognitive simulations.
-
-- **[PettingZoo (`Farama-Foundation/PettingZoo`)](https://github.com)** and **[Melting Pot (`google-deepmind/meltingpot`)](https://github.com)** for standardized multi-agent reinforcement learning (MARL) and social-dilemma simulation benchmarks.
-
-- **[TinyTroupe (`microsoft/TinyTroupe`)](https://github.com)** for Microsoft's open-source LLM-powered multi-agent persona simulation library designed for synthetic focus groups, product testing, and customer feedback.
-
-- **[Sotopia (`sotopia-lab/sotopia`)](https://github.com)** for an open-source social-intelligence simulation environment evaluating goal-driven negotiation, cooperation, and social reasoning between AI agents.
-
-- **[Ollama (`ollama/ollama`)](https://github.com)** and **[vLLM (`vllm-project/vllm`)](https://github.com)** for high-throughput local and cluster LLM serving capable of running hundreds of concurrent simulation turns without per-token API fees.
-
-
-
-**Frameworks for building custom systems**: Combine **MiroFish (`666ghj/MiroFish`)** or **CAMEL-AI / OASIS** (large-scale swarm & social simulation) with **Concordia / TinyTroupe** (persona & Game Master dynamics), **MetaGPT / AutoGen** (role-playing task execution), **Mem0 / Graphiti** (persistent agent memory), and **vLLM / Ollama** (high-concurrency inference) for sovereign multi-agent simulation systems.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
+- **Disclaimer:** All product names, logos, and brands are property of their respective owners. Company valuations, funding metrics, and pricing plans reflect publicly reported information and may change over time.
+- **License:** Distributed under the [MIT License](LICENSE). Copyright © 2026 Ishan Dutta.
