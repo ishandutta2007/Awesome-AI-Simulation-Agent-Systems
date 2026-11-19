@@ -28,8 +28,8 @@
 - [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [☁️ SaaS & Hosted Platforms](#️-saas--hosted-platforms)
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
-  - [🏆 Tier 1: 50,000+ Stars (Industry Anchors & Foundations)](#-tier-1-50000-stars-industry-anchors--foundations)
-  - [🚀 Tier 2: 20,000 – 50,000 Stars (Flagship Frameworks & Social Simulators)](#-tier-2-20000--50000-stars-flagship-frameworks--social-simulators)
+  - [🏆 Tier 1: 50,000+ GitHub_Stars (Industry Anchors & Foundations)](#-tier-1-50000-stars-industry-anchors--foundations)
+  - [🚀 Tier 2: 20,000 – 50,000 GitHub_Stars (Flagship Frameworks & Social Simulators)](#-tier-2-20000--50000-stars-flagship-frameworks--social-simulators)
   - [🔬 Tier 3: Emerging & Specialized Simulators (< 20,000 Stars)](#-tier-3-emerging--specialized-simulators--20000-stars)
 - [📈 Star History](#-star-history)
 - [🤝 How to Contribute](#-how-to-contribute)
@@ -82,9 +82,9 @@ The following hosted platforms provide managed cloud infrastructure, visual low-
 
 A directory of top open-source repositories powering multi-agent systems, social simulators, embodied virtual worlds, and agentic infrastructure.
 
-*Each project includes a live white-badge link to its official GitHub stargazers page and is sorted in descending order by GitHub stars:*
+*Each project includes a live white-badge link to its official GitHub stargazers page and is sorted in descending order by GitHub_Stars:*
 
-### 🏆 Tier 1: 50,000+ Stars (Industry Anchors & Foundations)
+### 🏆 Tier 1: 50,000+ GitHub_Stars (Industry Anchors & Foundations)
 
 1. **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** [![AutoGPT Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers)  
    The iconic open-source autonomous agent experiment that catalyzed the autonomous agent movement. Enables modular agents to recursively plan, execute web tasks, browse, code, and execute multi-step objectives.
@@ -118,7 +118,7 @@ A directory of top open-source repositories powering multi-agent systems, social
 
 ---
 
-### 🚀 Tier 2: 20,000 – 50,000 Stars (Flagship Frameworks & Social Simulators)
+### 🚀 Tier 2: 20,000 – 50,000 GitHub_Stars (Flagship Frameworks & Social Simulators)
 
 11. **[langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)** [![LangGraph Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)  
     Stateful multi-actor agent orchestration library modeling complex agent interactions as cyclic graphs with built-in persistence, time-travel inspection, and fault tolerance.
@@ -197,7 +197,7 @@ Contributions are warmly welcome to keep this directory comprehensive and up to 
 2. **Create a descriptive feature branch**: `git checkout -b feature/add-new-simulator`.
 3. **Add your SaaS product or open-source tool**:
    - For SaaS products: Include specific starting tier pricing, free plan/trial limits, and company scale/valuation in the tabular format.
-   - For open-source projects: Include the GitHub repository link, live shields.io star badge with white background linking to stargazers, and a concise capability description.
+   - For open-source projects: Include the GitHub repository link, live shields.io Stars_Badge with white background linking to stargazers, and a concise capability description.
 4. **Sort into the proper rank/section**.
 5. **Submit a Pull Request** with a brief summary of the added technology.
 
